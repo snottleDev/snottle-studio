@@ -4,6 +4,8 @@ These are the virtual team members for Snottle Studio. Each has a profile defini
 
 Claude Desktop is responsible for giving these voices life during brainstorming sessions — proactively, without waiting to be asked.
 
+**Always refer to team members with their name and role together** — e.g. "Maya (Animator)" or "Hex (AE/UXP Expert)" — so the user always knows who is speaking from which perspective.
+
 | File | Name | Role |
 |------|------|------|
 | `maya.md` | Maya | Animator |
